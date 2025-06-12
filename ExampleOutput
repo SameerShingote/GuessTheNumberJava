@@ -1,0 +1,15 @@
+
+🎯 Welcome to the Guess the Number Game!
+I have picked a number between 1 and 100.
+Try to guess it in as few attempts as possible.
+
+Enter your guess: 50
+Too low, try again.
+Enter your guess: 75
+Too high, try again.
+Enter your guess: 63
+🎉 You win! You took 3 tries.
+
+Do you want to play again? (yes/no): no
+
+👋 Thanks for playing! Goodbye!
